@@ -1,0 +1,711 @@
+<?xml version="1.0"?>
+<aws:CategoryListingsResponse xmlns:aws="http://alexa.amazonaws.com/doc/2005-10-05/"><aws:Response xmlns:aws="http://awis.amazonaws.com/doc/2005-07-11"><aws:OperationRequest><aws:RequestId>777dd6a1-d1f1-aa0b-5fcb-da15d8bf3a1a</aws:RequestId></aws:OperationRequest><aws:CategoryListingsResult><aws:Alexa>
+  
+  <aws:CategoryListings>
+    <aws:RecursiveCount>7153</aws:RecursiveCount>
+    <aws:Count>16</aws:Count>
+    <aws:Listings>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.baen.com/author_catalog.asp?author=whkeith</aws:DataUrl>
+        <aws:Title>Baen Books by William H. Keith</aws:Title>
+        <aws:PopularityRank>1599059</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Three Bolo novels and a collaboration with Peter Jurasik.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.xmission.com/~emailbox/koontz/koontz.htm</aws:DataUrl>
+        <aws:Title>Dean Koontz</aws:Title>
+        <aws:PopularityRank>1534341</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Information about the authors books, short stories, and poetry. Provides a summary of each fiction novel, including pseudonyms used, and books made into movies and audio books.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.poetrykit.org/iv98/kinsella.htm</aws:DataUrl>
+        <aws:Title>The Poetry Kit Interviews John Kinsella</aws:Title>
+        <aws:PopularityRank>3368031</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Provides the 1998 interview with the author by Ted Slade.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.poetrykit.org/iv98/bell.htm</aws:DataUrl>
+        <aws:Title>The Poetry Kit Interviews: Marvin Bell</aws:Title>
+        <aws:PopularityRank>3368031</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Interview with the American author and bibliography of his works.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.poetrykit.org/iv98/tranter.htm</aws:DataUrl>
+        <aws:Title>The Poetry Kit - The Poetry Kit Interviews John Tranter</aws:Title>
+        <aws:PopularityRank>3368031</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biographical note, interview, bibliography, link to three poems by John Tranter.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.nerve.com/poetry/newman/drive/</aws:DataUrl>
+        <aws:Title>Drive</aws:Title>
+        <aws:PopularityRank>1586265</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>A poem by Amy Newman at Nerve.com.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.nerve.com/Poetry/Newman/nerve/</aws:DataUrl>
+        <aws:Title>The Nerve Sequence</aws:Title>
+        <aws:PopularityRank>1586265</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Poem by Amy Newman.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/library/nathaniel-hawthorne/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Nathaniel Hawthorne</aws:Title>
+        <aws:PopularityRank>633175</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Get detailed biographical information about Nathaniel Hawthorne, American novelist, short story writer, and author of The Scarlet Letter.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/library/ernest-hemingway/biography/</aws:DataUrl>
+        <aws:Title>Ernest Hemingway - European Graduate School</aws:Title>
+        <aws:PopularityRank>906298</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of author Ernest Hemingway at European Graduate School.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/pierre-alferi/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Pierre Alferi</aws:Title>
+        <aws:PopularityRank>1033089</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of French poet Pierre Alferi at European Graduate School.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/library/albert-camus/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School: Albert Camus</aws:Title>
+        <aws:PopularityRank>1037247</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of author Albert Camus.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/chris-kraus/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Chris Kraus</aws:Title>
+        <aws:PopularityRank>1057447</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Faculty page of Chris Kraus, author, filmmaker, and professor of film at European Graduate School. Includes bibliography, biography, photos and videos.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/nicholson-baker/biography/</aws:DataUrl>
+        <aws:Title>Nicholson Baker - Biography</aws:Title>
+        <aws:PopularityRank>1083709</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of Nicholson Baker, including books, work and media.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/alessandro-de-francesco/biography/</aws:DataUrl>
+        <aws:Title>Alessandro de Francesco - Biography</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Alessandro de Francesco faculty page, biography, and bibliography at European Graduate School.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/durs-gruenbein/biography/</aws:DataUrl>
+        <aws:Title>Durs Grünbein - Biography</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Durs Grünbein, biography, bibliography and video lectures of the German poet and professor.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/colum-mccann/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Colum McCann</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of Colum McCann, Iris writer, novelist, and professor of Contemporary Literature.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/library/heinrich-von-kleist/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Heinrich von Kleist</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Get detailed biographical information about Bernd Heinrich Wilhelm von Kleist, poet, dramatist, novelist and short story writer.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/ilija-trojanow/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Ilija Trojanow</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of Ilija Trojanow, a Bulgarian-German writer, translator and publisher.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/jacques-roubaud/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Jacques Roubaud</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Jacques Roubaud faculty page at European Graduate School featuring biography, bibliography, photos and videos.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/judith-balso/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Judith Balso</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Faculty page of Judith Balso, professor of poetry, at European Graduate School. Includes bibliography, biography, photos and videos.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/laura-marks/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Laura U. Marks</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of Laura U. Marks, Professor of Philosophy at European Graduate School.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/manthia-diawara/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Manthia Diawara</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Faculty profile of author, filmmaker, art historian, and professor of Culture and Film Manthia Diawara at European Graduate School.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/michel-deguy/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Michel Deguy</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of Michel Deguy, French poet, writer and philosopher.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/nachoem-wijnberg/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Nachoem Wijnberg</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Get detailed biographical information about Nachoem Wijnberg, Dutch Economist, Poet and Novelist.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/nuruddin-farah/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Nuruddin Farah</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Nuruddin Farah biography and faculty page at European Graduate School features biography, bibliography, articles and video lectures.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/sophie-calle/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Sophie Calle Biography</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Faculty profile of artist and author Sophie Calle at European Graduate School featuring biography, bibliography, photos and videos.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/yang-lian/biography/</aws:DataUrl>
+        <aws:Title>European Graduate School - Yang Lian</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Yang Lian biography and bibliography at European Graduate School features works, articles, photos and video lectures.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/martin-hielscher/biography/</aws:DataUrl>
+        <aws:Title>Hielscher, Martin</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of the German author, editor and professor Martin Hielscher.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/julian-barnes/biography/</aws:DataUrl>
+        <aws:Title>Julian Barnes - Biography</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of Julian Barnes, poet and writer at European Graduate School.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/marcel-beyer/biography/</aws:DataUrl>
+        <aws:Title>Marcel Beyer - Biography</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Marcel Beyer biography and bibliography of the German poet and author at European Graduate School.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/library/matsuo-basho/biography/</aws:DataUrl>
+        <aws:Title>Matsuo Munefusa Basho - European Graduate School</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of Japanese poet Matsuo Munefusa Basho at European Graduate School.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/michel-houellebecq/biography/</aws:DataUrl>
+        <aws:Title>Michel Houellebecq - Biography</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography and bibliography of French author and professor Michel Houellebecq.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.egs.edu/faculty/philippe-beck/biography/</aws:DataUrl>
+        <aws:Title>Philippe Beck - Biography</aws:Title>
+        <aws:PopularityRank>1602800</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Philippe Beck, biographical information, bibliography and lectures at European Graduate School.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://seawifs.gsfc.nasa.gov/OCEAN_PLANET/HTML/ocean_planet_book_beebe1.html</aws:DataUrl>
+        <aws:Title>Half Mile Down</aws:Title>
+        <aws:PopularityRank>1220816</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>1934 essay by William Beebe on his descent in a bathysphere.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://thinkexist.com/quotes/lewis_grizzard/</aws:DataUrl>
+        <aws:Title>Lewis Grizzard quotes</aws:Title>
+        <aws:PopularityRank>1478208</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Selected quotations as submitted by fans at thinkexist.com.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://thinkexist.com/quotes/michael_ende/</aws:DataUrl>
+        <aws:Title>Michael Ende quotes</aws:Title>
+        <aws:PopularityRank>1478208</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>List of Ende quotations at Thinkexist.com.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://thinkexist.com/quotes/tom_robbins/</aws:DataUrl>
+        <aws:Title>Tom Robbins Quotes</aws:Title>
+        <aws:PopularityRank>1478208</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>User submitted quotations.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.authorsden.com/</aws:DataUrl>
+        <aws:Title>AuthorsDen.com</aws:Title>
+        <aws:PopularityRank>30673</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Authors freely post biographies, works, news, blogs, events and articles for readers to discover.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://home.comcast.net/~doncamillo/</aws:DataUrl>
+        <aws:Title>Don Camillo</aws:Title>
+        <aws:PopularityRank>1455090</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Website devoted to Italian author Giovanni Guareschi and his 'Don Camillo' stories.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://home.comcast.net/~ktebo/index.htm</aws:DataUrl>
+        <aws:Title>Jon Hassler's Writing Room</aws:Title>
+        <aws:PopularityRank>1455090</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Authorized web site about this Minnesota author and his novels.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://home.comcast.net/~sbhattacharj/tagore.html</aws:DataUrl>
+        <aws:Title>Lopa's Rabindranath Tagore Page</aws:Title>
+        <aws:PopularityRank>1455090</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Fan page: includes English translations of poems and songs.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.authorsden.com/visit/author.asp?AuthorID=821</aws:DataUrl>
+        <aws:Title>Authors Den: Theodore J. Nottingham</aws:Title>
+        <aws:PopularityRank>1526792</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Includes the author's biography, background information, and accomplishments, a spiritual article written by the author, a downloadable short story, and contact information.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.authorsden.com/categories/cat.asp?catID=52&amp;catName=Horror&amp;mainContent=Work&amp;s1=News&amp;s2=Event&amp;s3=Article</aws:DataUrl>
+        <aws:Title>AuthorsDen.com - Horror</aws:Title>
+        <aws:PopularityRank>1526792</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Authors can freely post biographies, works, news, events and articles.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.authorsden.com/visit/author.asp?id=1499</aws:DataUrl>
+        <aws:Title>Baldwin, Juanitta</aws:Title>
+        <aws:PopularityRank>1526792</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Includes short biography, contact information, and links.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://rambles.net/jones_charmed.html</aws:DataUrl>
+        <aws:Title>Charmed Life</aws:Title>
+        <aws:PopularityRank>1782047</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Short review of the book.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://rambles.net/whitehead_intuit.html</aws:DataUrl>
+        <aws:Title>Colson Whitehead, The Intuitionist</aws:Title>
+        <aws:PopularityRank>1782047</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Review by Robin Brenner in Rambles.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.rambles.net/bantock_griffin.html</aws:DataUrl>
+        <aws:Title>Nick Bantock: The Griffin &amp; Sabine Trilogy</aws:Title>
+        <aws:PopularityRank>1782047</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Brief reviews by Audrey M. Clark.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.rambles.net/friedan_gender.html</aws:DataUrl>
+        <aws:Title>Rambles: Betty Friedan: Issues without Gender</aws:Title>
+        <aws:PopularityRank>1782047</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>A interview by Tom Knapp about the state of the women's movement.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.rambles.net/ende_momo85.html</aws:DataUrl>
+        <aws:Title>Rambles: Momo</aws:Title>
+        <aws:PopularityRank>1782047</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Momo (The Grey Gentlemen) reviewed by Sarah Meador.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://rambles.net/taylor_secrets.html</aws:DataUrl>
+        <aws:Title>Rambles Production</aws:Title>
+        <aws:PopularityRank>1782047</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Review of the vampire novel, 'Blood Secrets'.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.unknowncountry.com/</aws:DataUrl>
+        <aws:Title>Unknowncountry</aws:Title>
+        <aws:PopularityRank>47602</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Daily news of the edge of science and reality.Updated hourly. Home of Dreamland radio program.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.nps.gov/carl/</aws:DataUrl>
+        <aws:Title>Carl Sandburg Home</aws:Title>
+        <aws:PopularityRank>302050</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>A visit to Connemara, the poet's home in Flat Rock, North Carolina.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.barnesandnoble.com/writers/writerdetails.asp?userid=2TH3X2Y63W&amp;cid=929573#bio</aws:DataUrl>
+        <aws:Title>Barnes &amp; Noble.com - Meet the Writers</aws:Title>
+        <aws:PopularityRank>1243591</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Biography, interview and bibliography.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.barnesandnoble.com/writers/writerdetails.asp?userid=CJ5qO1c9hH&amp;cid=996936#interview</aws:DataUrl>
+        <aws:Title>Barnes &amp; Noble - Meet the Writers: Susan Isaacs</aws:Title>
+        <aws:PopularityRank>1243591</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Interview from late 2004 discusses some favorite authors and books.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.nps.gov/nr/travel/atlanta/cre.htm</aws:DataUrl>
+        <aws:Title>Crescent Apartments--Atlanta: A National Register of Historic Places</aws:Title>
+        <aws:PopularityRank>1276741</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Margaret Mitchell, author of Gone With the Wind, lived in the ground floor Apartment Number 1 from 1925 to 1932 with her husband John Marsh.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.nps.gov/nr/travel/atlanta/har.htm</aws:DataUrl>
+        <aws:Title>Joel Chandler Harris Home</aws:Title>
+        <aws:PopularityRank>1276741</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>National Park Service information about Wren's Nest, Harris' home in Atlanta, Georgia, open to the public as a house museum.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.democracynow.org/appearances/maya_angelou</aws:DataUrl>
+        <aws:Title>Democracy Now!: Maya Angelou</aws:Title>
+        <aws:PopularityRank>1427249</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Video and transcripts of shows featuring the American poet and activist.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.democracynow.org/1997/11/10/ken_saro_wiwa_and_nigeria</aws:DataUrl>
+        <aws:Title>Ken Saro Wiwa and Nigeria</aws:Title>
+        <aws:PopularityRank>1427249</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Audio of a Pacifica radio show, with excerpts from a 1995 interview with Saro Wiwa and another MOSOP leader, and remembrances from family and colleagues.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.democracynow.org/article.pl?sid=07/09/03/138216</aws:DataUrl>
+        <aws:Title>Lawrence Ferlinghetti Audio Interview</aws:Title>
+        <aws:PopularityRank>1427249</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>City Lights Books’ publisher and poet Lawrence Ferlinghetti interview on the 50th Anniversary of Jack Kerouac's "On The Road", Allen Ginsberg's "Howl" and Poetry As Insurgent Art.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://vagalecs.narod.ru/Yevtuy.HTM</aws:DataUrl>
+        <aws:Title>Popular Poetry</aws:Title>
+        <aws:PopularityRank>1813058</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Poems by Yevgeny Yevtushenko, translated by Alec Vagapov.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.marsvenus.com/</aws:DataUrl>
+        <aws:Title>Men are from Mars, Women are from Venus</aws:Title>
+        <aws:PopularityRank>55325</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Relationship advice, testing, and articles from Dr. John Gray, bestselling author of Men are from Mars, Women are from Venus. Learn more about John Gray, the world s most recognized relationship author.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/1661</aws:DataUrl>
+        <aws:Title>The Adventures of Sherlock Holmes</aws:Title>
+        <aws:PopularityRank>147873</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Etext at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/98</aws:DataUrl>
+        <aws:Title>A Tale of Two Cities</aws:Title>
+        <aws:PopularityRank>170144</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text, PDF, or TeX. Zip files also available. At Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/11</aws:DataUrl>
+        <aws:Title>Alice's Adventures in Wonderland</aws:Title>
+        <aws:PopularityRank>185284</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Available in several formats, from Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/174</aws:DataUrl>
+        <aws:Title>The Picture of Dorian Gray</aws:Title>
+        <aws:PopularityRank>188350</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>20-chapter version. In HTML, plain text, or as a zip file.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/1342</aws:DataUrl>
+        <aws:Title>Pride and Prejudice</aws:Title>
+        <aws:PopularityRank>197171</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text, PDF, TeX, or as a zip file. From Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/135</aws:DataUrl>
+        <aws:Title>Les Miserables</aws:Title>
+        <aws:PopularityRank>203673</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Plain text file at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/5200</aws:DataUrl>
+        <aws:Title>Metamorphosis</aws:Title>
+        <aws:PopularityRank>206641</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>David Wyllie translation. Several formats available, at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/62</aws:DataUrl>
+        <aws:Title>A Princess of Mars</aws:Title>
+        <aws:PopularityRank>219046</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>E-text at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/844</aws:DataUrl>
+        <aws:Title>The Importance of Being Earnest</aws:Title>
+        <aws:PopularityRank>231798</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text, or as a zip file.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/1952</aws:DataUrl>
+        <aws:Title>The Yellow Wallpaper</aws:Title>
+        <aws:PopularityRank>237414</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Etext at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/2500</aws:DataUrl>
+        <aws:Title>Siddhartha: An Indian Tale</aws:Title>
+        <aws:PopularityRank>249176</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Hesse's novel in plain text (two versions), HTML, as a zip file, or in plucker format, from Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/20</aws:DataUrl>
+        <aws:Title>Paradise Lost</aws:Title>
+        <aws:PopularityRank>260026</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text or as a zip file, from Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/33</aws:DataUrl>
+        <aws:Title>Project Gutenberg: The Scarlet Letter</aws:Title>
+        <aws:PopularityRank>286115</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Plain text version.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/308</aws:DataUrl>
+        <aws:Title>Three Men in a Boat</aws:Title>
+        <aws:PopularityRank>298989</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Etext at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/103</aws:DataUrl>
+        <aws:Title>Around the World in 80 Days</aws:Title>
+        <aws:PopularityRank>330089</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Plain text file at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/16</aws:DataUrl>
+        <aws:Title>Peter Pan</aws:Title>
+        <aws:PopularityRank>335372</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Barrie's classic work at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/158</aws:DataUrl>
+        <aws:Title>Emma</aws:Title>
+        <aws:PopularityRank>337073</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Available in plain text, PDF, TeX, or as a zip file. From Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/12</aws:DataUrl>
+        <aws:Title>Through the Looking Glass</aws:Title>
+        <aws:PopularityRank>339007</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Available in several formats.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/36</aws:DataUrl>
+        <aws:Title>Project Gutenberg: The War of the Worlds</aws:Title>
+        <aws:PopularityRank>346578</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Public domain text download.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/2759</aws:DataUrl>
+        <aws:Title>The Man in the Iron Mask</aws:Title>
+        <aws:PopularityRank>350399</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Plain text. Also available for download as a zipped text file or zipped HTML file. At Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/1257</aws:DataUrl>
+        <aws:Title>The Three Musketeers</aws:Title>
+        <aws:PopularityRank>353796</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text, or as a zip file, at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/1184</aws:DataUrl>
+        <aws:Title>The Count of Monte Cristo</aws:Title>
+        <aws:PopularityRank>357246</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text, or as a zip file, from Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/13</aws:DataUrl>
+        <aws:Title>The Hunting of the Snark</aws:Title>
+        <aws:PopularityRank>360309</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text, HTML, or as a zip file, from Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/963</aws:DataUrl>
+        <aws:Title>Project Gutenberg: Little Dorrit</aws:Title>
+        <aws:PopularityRank>388509</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Public domain text download.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/46</aws:DataUrl>
+        <aws:Title>A Christmas Carol</aws:Title>
+        <aws:PopularityRank>390163</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text, HTML, or as a zip file of either, from Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/675</aws:DataUrl>
+        <aws:Title>Project Gutenberg: American Notes</aws:Title>
+        <aws:PopularityRank>400523</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Public domain text download.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/35</aws:DataUrl>
+        <aws:Title>The Time Machine</aws:Title>
+        <aws:PopularityRank>416854</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text, or as a zip file, from Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/766</aws:DataUrl>
+        <aws:Title>Project Gutenberg: David Copperfield</aws:Title>
+        <aws:PopularityRank>425401</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Public domain text download.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/58</aws:DataUrl>
+        <aws:Title>Paradise Regained</aws:Title>
+        <aws:PopularityRank>460338</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text or as a zip file, from Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/27</aws:DataUrl>
+        <aws:Title>Project Gutenberg: Far From the Madding Crowd</aws:Title>
+        <aws:PopularityRank>470969</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Plain text version of the book.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/14591</aws:DataUrl>
+        <aws:Title>Faust</aws:Title>
+        <aws:PopularityRank>472564</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Bayard Taylor translation. In HTML, with illustrations by Harry Clarke. Also available in plain text. At Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/965</aws:DataUrl>
+        <aws:Title>The Black Tulip</aws:Title>
+        <aws:PopularityRank>478366</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>In plain text or as a zip file, from Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/242</aws:DataUrl>
+        <aws:Title>My Antonia</aws:Title>
+        <aws:PopularityRank>479049</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Plain text file at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/2274</aws:DataUrl>
+        <aws:Title>How To Live On 24 Hours A Day</aws:Title>
+        <aws:PopularityRank>482950</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>E-text at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/730</aws:DataUrl>
+        <aws:Title>Project Gutenberg: Oliver Twist</aws:Title>
+        <aws:PopularityRank>494271</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Public domain text download.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/1597</aws:DataUrl>
+        <aws:Title>Project Gutenberg: Andersen's Fairy Tales</aws:Title>
+        <aws:PopularityRank>499428</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Plain text version.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/786</aws:DataUrl>
+        <aws:Title>Project Gutenberg: Hard Times</aws:Title>
+        <aws:PopularityRank>501208</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Public domain text download.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/223</aws:DataUrl>
+        <aws:Title>The Wisdom of Father Brown</aws:Title>
+        <aws:PopularityRank>501556</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Plain text and zipped files at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+      <aws:Listing>
+        <aws:DataUrl type="navigable">http://www.gutenberg.org/ebooks/1260</aws:DataUrl>
+        <aws:Title>Jane Eyre</aws:Title>
+        <aws:PopularityRank>503074</aws:PopularityRank>
+        <aws:AverageReview>5</aws:AverageReview>
+        <aws:Description>Complete text in several formats at Project Gutenberg.</aws:Description>
+      </aws:Listing>
+    </aws:Listings>
+    <aws:ReviewersRaveListings/>
+  </aws:CategoryListings>
+</aws:Alexa></aws:CategoryListingsResult><aws:ResponseStatus xmlns:aws="http://alexa.amazonaws.com/doc/2005-10-05/"><aws:StatusCode>Success</aws:StatusCode></aws:ResponseStatus></aws:Response></aws:CategoryListingsResponse>
